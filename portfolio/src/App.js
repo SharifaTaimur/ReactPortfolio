@@ -23,7 +23,8 @@ class App extends Component {
 
   getResumeData() {
     $.ajax({
-      url: "/resumeData.json",
+      // url: "/resumeData.json",
+      url: "/profileupdate/resumeData.json",
       dataType: "json",
       cache: false,
       success: function (data) {
@@ -31,7 +32,7 @@ class App extends Component {
       }.bind(this),
       error: function (xhr, status, err) {
         console.log(err);
-        alert(err);
+        // alert(err);
       },
     });
   }

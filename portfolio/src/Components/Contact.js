@@ -45,7 +45,7 @@ const Contact = ({ data }) => {
                 <input
                   value={name}
                   type="text"
-                  defaultValue=""
+                  // defaultValue=""
                   size="35"
                   id="contactName"
                   name="contactName"
@@ -60,7 +60,7 @@ const Contact = ({ data }) => {
                 <input
                   value={email}
                   type="text"
-                  defaultValue=""
+                  // defaultValue=""
                   size="35"
                   id="contactEmail"
                   name="contactEmail"
@@ -73,7 +73,7 @@ const Contact = ({ data }) => {
                 <input
                   value={subject}
                   type="text"
-                  defaultValue=""
+                  // defaultValue=""
                   size="35"
                   id="contactSubject"
                   name="contactSubject"
