@@ -39,7 +39,13 @@ class Resume extends Component {
       // });
 
       var skills = this.props.data.skills.map(function (skills) {
-        return <img style={{ margin: "16px" }} src={skills.image} />;
+        return (
+          <img
+            key={skills.name}
+            style={{ margin: "16px" }}
+            src={skills.image}
+          />
+        );
       });
     }
 
