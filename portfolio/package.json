@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SharifaTaimur.github.io/profileupdate",
+  "homepage": "https://sharifataimur.github.io/profileupdate",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
