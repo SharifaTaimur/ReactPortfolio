@@ -53,30 +53,30 @@
     ],
     "skills": [{
         "name": "Reactjs",
-        "image": "/profileupdate/images/skills/react.png"
+        "image": "/reactportfolio/images/skills/react.png"
       },
       {
         "name": "JavaScript",
-        "image": "/profileupdate/images/skills/javascript.png"
+        "image": "/reactportfolio/images/skills/javascript.png"
       },
       {
         "name": "HTML",
-        "image": "/profileupdate/images/skills/html.png"
+        "image": "/reactportfolio/images/skills/html.png"
       },
       {
         "name": "CSS",
-        "image": "/profileupdate/images/skills/css.png"
+        "image": "/reactportfolio/images/skills/css.png"
       },
       {
         "name": "Nodejs",
-        "image": "/profileupdate/images/skills/nodejs.png"
+        "image": "/reactportfolio/images/skills/nodejs.png"
       },
       {
         "name": "Mongodb",
-        "image": "/profileupdate/images/skills/mongodb.png"
+        "image": "/reactportfolio/images/skills/mongodb.png"
       }, {
         "name": "Bootstrap",
-        "image": "/profileupdate/images/skills/bootstrap.png"
+        "image": "/reactportfolio/images/skills/bootstrap.png"
       }
     ]
   },
