@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Sharifa Taimur",
+    "occupation": "I'm a Dubai based Aspiring ReactJS Developer!",
+    "image": "Sherry.PNG",
+    "bio": "My name is Sharifa, I'm a ReactJS Developer, seeking a challenging opportunity in a dynamic environment where innovation, education & sense of ownership are valued and encouraged.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sharifa_taimur2@hotmail.com",
+    "phone": "+971 50 1561905",
+    "address": {
+      "city": "Dubai",
+      "state": "U.A.E"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1xZMujkhjFmZWIAXbqvYxAqEbwReG6VJX/view?usp=sharing",
+    "social": [{
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sharifa-al-abry-575510119/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/SharifaTaimur",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sharifa_alabry",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are a few technologies I've been working with recently : ",
+    "education": [{
+      "school": "University of Wollongong in Dubai",
+      "degree": "Bachelor of Information Technology in Management Information System",
+      "graduated": "June 2014"
+    }],
+    "work": [{
+        "company": "OILSERV",
+        "title": "Junior Software Programmer",
+        "years": "May 2017 - May 2018",
+        "description": "Developed and implemented SharePoint applications."
+      },
+      {
+        "company": "NAGA Architects",
+        "title": "Junior - Programmer",
+        "years": "Oct 2014 - April 2017",
+        "description": "Web Application Development using ASP.NET MVC."
+      }
+    ],
+    "skills": [{
+        "name": "Reactjs",
+        "image": "/reactportfolio/images/skills/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "image": "/reactportfolio/images/skills/javascript.png"
+      },
+      {
+        "name": "HTML",
+        "image": "/reactportfolio/images/skills/html.png"
+      },
+      {
+        "name": "CSS",
+        "image": "/reactportfolio/images/skills/css.png"
+      },
+      {
+        "name": "Nodejs",
+        "image": "/reactportfolio/images/skills/nodejs.png"
+      },
+      {
+        "name": "Mongodb",
+        "image": "/reactportfolio/images/skills/mongodb.png"
+      }, {
+        "name": "Bootstrap",
+        "image": "/reactportfolio/images/skills/bootstrap.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "/NETFLIXCLONE.gif",
+        "url": "https://github.com/SharifaTaimur/Netflix-Clone"
+      },
+      {
+        "title": "CovidTracker",
+        "category": "CovidTracker with React",
+        "image": "CovidTracker19.gif",
+        "url": "https://github.com/SharifaTaimur/Covid-19-Tracker"
+      },
+      {
+        "title": "Hotel Reservation",
+        "category": "Hotel Reservation built with ReactJS",
+        "image": "HotelReservation.gif",
+        "url": "https://github.com/SharifaTaimur/Hotel-Reservation"
+      },
+      {
+        "title": "Electronic Store with React",
+        "category": "Electronic Clone built with ReactJS",
+        "image": "ElectronicStore-min.gif",
+        "url": "https://github.com/SharifaTaimur/ElectronicStore"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
