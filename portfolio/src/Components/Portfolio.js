@@ -4,7 +4,8 @@ class Portfolio extends Component {
   render() {
     if (this.props.data) {
       var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = "profileupdate/images/portfolio/" + projects.image;
+        // var projectImage = "profileupdate/images/portfolio/" + projects.image;
+        var projectImage = "/reactportfolio/images/portfolio/" + projects.image;
         return (
           <div className="item" key={projects.title}>
             <a title={projects.title}>
