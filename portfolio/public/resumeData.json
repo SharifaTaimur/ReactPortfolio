@@ -2,7 +2,7 @@
   "main": {
     "name": "Sharifa Taimur",
     "occupation": "I'm a Dubai based Aspiring ReactJS Developer!",
-    "image": "Sherry.png",
+    "image": "Sherry.PNG",
     "bio": "My name is Sharifa, I'm a ReactJS Developer, seeking a challenging opportunity in a dynamic environment where innovation, education & sense of ownership are valued and encouraged.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "sharifa_taimur2@hotmail.com",
@@ -53,30 +53,30 @@
     ],
     "skills": [{
         "name": "Reactjs",
-        "image": "images/skills/react.png"
+        "image": "/profileupdate/images/skills/react.png"
       },
       {
         "name": "JavaScript",
-        "image": "images/skills/javascript.png"
+        "image": "/profileupdate/images/skills/javascript.png"
       },
       {
         "name": "HTML",
-        "image": "images/skills/html.png"
+        "image": "/profileupdate/images/skills/html.png"
       },
       {
         "name": "CSS",
-        "image": "images/skills/css.png"
+        "image": "/profileupdate/images/skills/css.png"
       },
       {
         "name": "Nodejs",
-        "image": "images/skills/nodejs.png"
+        "image": "/profileupdate/images/skills/nodejs.png"
       },
       {
         "name": "Mongodb",
-        "image": "images/skills/mongodb.png"
+        "image": "/profileupdate/images/skills/mongodb.png"
       }, {
         "name": "Bootstrap",
-        "image": "images/skills/bootstrap.png"
+        "image": "/profileupdate/images/skills/bootstrap.png"
       }
     ]
   },
