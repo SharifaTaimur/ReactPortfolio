@@ -85,25 +85,29 @@
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS",
         "image": "/NETFLIXCLONE.gif",
-        "url": "https://github.com/SharifaTaimur/Netflix-Clone"
+        "url": "https://github.com/SharifaTaimur/Netflix-Clone",
+        "live": "https://netflix-clone-e6557.web.app/"
       },
       {
         "title": "CovidTracker",
         "category": "CovidTracker with React",
         "image": "CovidTracker19.gif",
-        "url": "https://github.com/SharifaTaimur/Covid-19-Tracker"
+        "url": "https://github.com/SharifaTaimur/Covid-19-Tracker",
+        "live": "https://covid19-tracker-a37e5.web.app/"
       },
       {
         "title": "Hotel Reservation",
         "category": "Hotel Reservation built with ReactJS",
         "image": "HotelReservation.gif",
-        "url": "https://github.com/SharifaTaimur/Hotel-Reservation"
+        "url": "https://github.com/SharifaTaimur/Hotel-Reservation",
+        "live": "https://hotel-reservation-c3432.web.app/"
       },
       {
-        "title": "Electronic Store with React",
-        "category": "Electronic Clone built with ReactJS",
-        "image": "ElectronicStore-min.gif",
-        "url": "https://github.com/SharifaTaimur/ElectronicStore"
+        "title": "Twitter Clone",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "Twitter.gif",
+        "url": "https://github.com/SharifaTaimur/twitter-clone",
+        "live": "https://twitter-clone-df072.web.app/"
       }
     ]
   },
