@@ -19,11 +19,26 @@ class Portfolio extends Component {
             <p className="Paragraph-sc-1tzuhix-0 ProjectRow__ProjectParagraph-sc-1myfgsx-5 ckUDHG">
               {projects.category}
             </p>
-            <a href={projects.url}>
+            {/* <a href={projects.url}>
               <p className="Paragraph-sc-1tzuhix-0 ProjectRow__ProjectLink-sc-1myfgsx-1 cTfmBX">
                 View Project <span></span>
               </p>
-            </a>
+              <p className="Paragraph-sc-1tzuhix-0 ProjectRow__ProjectLink-sc-1myfgsx-1 cTfmBX">
+                View Site <span></span>
+              </p>
+            </a> */}
+            <div className="portfolio__links">
+              <a href={projects.url}>
+                <p className="Paragraph-sc-1tzuhix-0 ProjectRow__ProjectLink-sc-1myfgsx-1 cTfmBX">
+                  View Project <span></span>
+                </p>
+              </a>
+              <a href={projects.live}>
+                <p className="Paragraph-sc-1tzuhix-0 ProjectRow__ProjectLink-sc-1myfgsx-1 cTfmBX">
+                  View Site <span></span>
+                </p>
+              </a>
+            </div>
           </div>
         );
       });
